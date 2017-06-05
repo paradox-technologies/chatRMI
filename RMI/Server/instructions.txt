@@ -1,0 +1,6 @@
+1) javac *.java
+2) rmic RRImplement
+3) copy stubs file
+---------------------
+4) start rmiregistry 1020
+5) start java MainServer
